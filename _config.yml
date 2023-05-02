@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Portfolio
-description: ""
+description: Portfolio
 repository: Strikelesss/Strikelesss.github.io
 baseurl: ""
 url: "https://Strikelesss.github.io/" # the base hostname & protocol for your site, e.g. http://example.com

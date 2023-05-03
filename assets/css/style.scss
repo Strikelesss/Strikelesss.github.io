@@ -1,0 +1,16 @@
+---
+---
+
+/*
+	Dark theme
+*/
+
+$background-color: #1d1d1d;
+$text-color: #e6e6e6;
+$grey-color-light: #565656;
+$grey-color-dark: #adadad;
+
+@import "{{ site.theme }}";
+.site-header {
+	border-top: 0px solid #adadad;
+}

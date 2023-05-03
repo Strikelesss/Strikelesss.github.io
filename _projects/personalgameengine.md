@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "Personal Game Engine"
-categories: portfolio
+layout: page
+title: "Personal Game Engine"
+order: 0
 ---
 
 Here's my personal 3D Game Engine written in C++20. The original intention was to create a game with it, however, this turned into more of a hobby project instead. 

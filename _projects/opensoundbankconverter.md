@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "Open Soundbank Converter"
-categories: portfolio
+title: OpenSoundbankConverter
+layout: page
+order: 1
 ---
 
 An open source soundbank converter that supports conversion between E4B and SF2 file formats.

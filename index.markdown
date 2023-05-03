@@ -7,10 +7,10 @@ description: "Hello! My name is Gavin, and I'm a gameplay programmer currently w
 
 <article class="home">
    <header class="about-header">
-    <h2 class="about-title">{{ "About Me" | escape }}</h2>
+    <h2 class="about-title">{{ "About" | escape }}</h2>
   </header>
   
-  <div class="about_me">
+  <div class="about">
 	<img class="avatar_img" src="https://avatars.githubusercontent.com/u/29388665?v=4" style="float:left" />
   
 	<br>

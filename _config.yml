@@ -20,6 +20,7 @@
 
 title: Portfolio
 repository: Strikelesss/Strikelesss.github.io
+description: ""
 baseurl: ""
 url: "https://Strikelesss.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: Strikelesss

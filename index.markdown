@@ -1,7 +1,7 @@
 ---
 layout: custom_page
 title: "Portfolio"
-description: "Hello! My name is Gavin, and I'm a gameplay programmer currently working on the game 'Nemesis Siege' from red9gameworks.
+description: "Hello! My name is Gavin, and I'm a gameplay programmer currently working on the game 'Nemesis Siege' from iron8gameworks.
 	This site currently serves as my portfolio, which contains various projects that I have worked on during my spare time."
 ---
 
